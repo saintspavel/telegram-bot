@@ -4,3 +4,4 @@ requests==2.26.0
 google-api-python-client==2.35.0
 google-auth==2.3.3
 google-auth-oauthlib==0.4.6
+dateparser
